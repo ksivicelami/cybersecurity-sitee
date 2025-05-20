@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CyberSecure Albania</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #0d1117;
+      color: #c9d1d9;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #161b22;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      color: #58a6ff;
+    }
+    nav {
+      background-color: #21262d;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #58a6ff;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 40px;
+    }
+    footer {
+      background-color: #161b22;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>CyberSecure Albania</h1>
+    <p>Mbrojtja juaj digjitale është prioriteti ynë</p>
+  </header>
+
+  <nav>
+    <a href="#">Kreu</a>
+    <a href="#">Shërbime</a>
+    <a href="#">Trajnime</a>
+    <a href="#">Kontakt</a>
+  </nav>
+
+  <section>
+    <h2>Mirë se vini në CyberSecure Albania</h2>
+    <p>Ne ofrojmë zgjidhje të avancuara për sigurinë kibernetike, trajnime për ndërgjegjësim digjital dhe konsulencë për mbrojtje nga kërcënimet online.</p>
+    <ul>
+      <li>Testime Penetrimi (Pentesting)</li>
+      <li>Monitorim i rrjetit 24/7</li>
+      <li>Trajnime për siguri për organizata dhe individë</li>
+      <li>Auditim sigurie për sisteme IT</li>
+    </ul>
+  </section>
+
+  <footer>
+    © 2025 CyberSecure Albania | info@cybersecure.al
+  </footer>
+</body>
+</html>
